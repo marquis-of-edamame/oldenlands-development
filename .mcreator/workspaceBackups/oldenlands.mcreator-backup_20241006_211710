@@ -1,11 +1,31 @@
 {
   "mod_elements": [],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "cicada0",
+      "files": [
+        "cicada0"
+      ],
+      "category": "ambient",
+      "subtitle": "Cicada Buzzing"
+    },
+    {
+      "name": "cicada1",
+      "files": [
+        "cicada1"
+      ],
+      "category": "ambient",
+      "subtitle": "Cicada Making Vibrations"
+    }
+  ],
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "subtitles.cicada1": "Cicada Making Vibrations",
+      "subtitles.cicada0": "Cicada Buzzing"
+    }
   },
   "foldersRoot": {
     "name": "~",

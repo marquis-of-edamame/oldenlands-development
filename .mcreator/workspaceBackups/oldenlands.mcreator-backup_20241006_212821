@@ -73,48 +73,21 @@
       ],
       "category": "hostile",
       "subtitle": "Redcap Yelp"
-    },
-    {
-      "name": "redcap0",
-      "files": [
-        "redcap0"
-      ],
-      "category": "hostile",
-      "subtitle": "Redcap: \"Hee hee hee\""
-    },
-    {
-      "name": "redcap1",
-      "files": [
-        "redcap1"
-      ],
-      "category": "hostile",
-      "subtitle": "Redcap Cackle"
-    },
-    {
-      "name": "redcap2",
-      "files": [
-        "redcap2"
-      ],
-      "category": "hostile",
-      "subtitle": "Redcap: \"Hah hah ha\""
     }
   ],
   "tag_elements": {},
   "tab_element_order": {},
   "language_map": {
     "en_us": {
+      "subtitles.redcapdeath2": "Redcap Angrily Gasps",
+      "subtitles.redcapdeath1": "Redcap Gargles",
+      "subtitles.redcapdeath0": "Redcap Collapses in Agony",
       "subtitles.redcaphurt2": "Redcap Whimper",
       "subtitles.redcaphurt1": "Redcap says \"OW\"",
       "subtitles.redcaphurt0": "Redcap Hisses through Teeth",
+      "subtitles.redcaphurt3": "Redcap Yelp",
       "subtitles.cicada1": "Cicada Making Vibrations",
-      "subtitles.cicada0": "Cicada Buzzing",
-      "subtitles.redcap0": "Redcap: \"Hee hee hee\"",
-      "subtitles.redcapdeath2": "Redcap Angrily Gasps",
-      "subtitles.redcap1": "Redcap Cackle",
-      "subtitles.redcapdeath1": "Redcap Gargles",
-      "subtitles.redcap2": "Redcap: \"Hah hah ha\"",
-      "subtitles.redcapdeath0": "Redcap Collapses in Agony",
-      "subtitles.redcaphurt3": "Redcap Yelp"
+      "subtitles.cicada0": "Cicada Buzzing"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,59 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "cicada0",
+      "files": [
+        "cicada0"
+      ],
+      "category": "ambient",
+      "subtitle": "Cicada Buzzing"
+    },
+    {
+      "name": "cicada1",
+      "files": [
+        "cicada1"
+      ],
+      "category": "ambient",
+      "subtitle": "Cicada Making Vibrations"
+    },
+    {
+      "name": "redcapdeath0",
+      "files": [
+        "die0"
+      ],
+      "category": "hostile",
+      "subtitle": "Redcap Collapses in Agony"
+    }
+  ],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.redcapdeath0": "Redcap Collapses in Agony",
+      "subtitles.cicada1": "Cicada Making Vibrations",
+      "subtitles.cicada0": "Cicada Buzzing"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "oldenlands",
+    "modName": "Oldenlands",
+    "version": "1.0.0",
+    "author": "Mr Saturn, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.oldenlands"
+  },
+  "mcreatorVersion": 202400232117
+}
